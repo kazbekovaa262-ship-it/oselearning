@@ -1,2 +1,2 @@
 # oselearning
-желілік хаттамалар
+index.html
